@@ -1,0 +1,18 @@
+/*
+* ============================================================================
+*  Name     : bld.inf
+*  Part of  : Friend
+*  Created  : 21.07.2006 by 
+*  Description:
+*	 This file provides the information required for building the
+*    whole of a Friend.
+*  Version  :
+*  Copyright: 
+* ============================================================================
+*/
+
+
+PRJ_MMPFILES
+
+Friend.mmp
+

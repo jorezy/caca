@@ -1,0 +1,11 @@
+#define R_MY_SOFTKEYS_NULL                        0x8f6f004
+#define R_FRIEND_HOTKEYS                          0x8f6f005
+#define R_FRIEND_MENUBAR                          0x8f6f006
+#define R_FRIEND_MENU                             0x8f6f007
+#define R_MY_LIST                                 0x8f6f008
+#define R_MY_LIST_ITEMS                           0x8f6f009
+#define R_MY_RICHTEXT                             0x8f6f00a
+#define R_MY_EDWIN1                               0x8f6f00b
+#define R_MY_EDWIN2                               0x8f6f00c
+#define R_MY_EDWIN6                               0x8f6f00d
+#define R_AKNEXNOTE_WAIT_NOTE_SOFTKEY_CANCEL      0x8f6f00e

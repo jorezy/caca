@@ -1,0 +1,22 @@
+; f.pkg
+
+; Languages
+&EN
+
+; Header
+#{"Friend"},(0x0F4E86E7), 4, 3, 1
+
+; Platform compatibility
+(0x101F7960), 0, 0, 0, {"Series60ProductID"}
+
+; Target
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\release\thumb\UREL\Friend.app"-"!:\system\apps\Friend\Friend.app"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\Friend.rSC"-"!:\system\apps\Friend\Friend.rSC"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\Friend_caption.rSC"-"!:\system\apps\Friend\Friend_caption.rSC"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\mans.mbm"-"!:\system\apps\Friend\mans.mbm"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\maps.mbm"-"!:\system\apps\Friend\maps.mbm"
+".\Friend.aif"-"!:\system\apps\Friend\Friend.aif"
+".\ETEL3RDPARTY.lib"-"!:\system\apps\Friend\ETEL3RDPARTY.lib"
+".\Etel3rdParty.dll"-"!:\system\apps\Friend\Etel3rdParty.dll"
+
+

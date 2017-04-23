@@ -1,0 +1,20 @@
+; f.pkg
+
+; Languages
+&EN
+
+; Header
+#{"Friend"},(0x0F4E86E7), 0, 1, 1
+
+; Platform compatibility
+(0x10200BAB), 0, 0, 0, {"Series60ProductID"}
+
+; Target
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\release\thumb\UREL\Friend.app"-"!:\system\apps\Friend\Friend.app"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\Friend.aif"-"!:\system\apps\Friend\Friend.aif"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\Friend.rSC"-"!:\system\apps\Friend\Friend.rSC"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\Friend_caption.rSC"-"!:\system\apps\Friend\Friend_caption.rSC"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\mans.mbm"-"!:\system\apps\Friend\mans.mbm"
+"e:\Symbian\8.0a\S60_2nd_FP2_SC\Epoc32\data\z\system\apps\Friend\maps.mbm"-"!:\system\apps\Friend\maps.mbm"
+
+
